@@ -1,0 +1,14 @@
+form div {
+    display: flex;        
+    align-items: center;    
+    margin-bottom: 15px;
+}
+
+form label {
+    width: 200px;
+    margin-right: 10px;
+}
+
+form input {
+    width:150px;
+}
